@@ -24,25 +24,23 @@
 &lt;p&gt;If you want an overview of some of my research up to July 2023 concerning optimization and kernels, here are some &lt;a href=&#34;publication/PCAF_LIKE23_KernelOptim_slides/PCAF_LIKE23_KernelOptim_slides.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
+&lt;p&gt;New &lt;a href=&#34;https://arxiv.org/abs/2308.11435&#34;&gt;article&lt;/a&gt; on arXiv, with &lt;a href=&#34;https://personal.utdallas.edu/~axb046100/&#34;&gt;Alain Bensoussan&lt;/a&gt;, on the RKHSs of push-forward maps for mean-field control,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;New &lt;a href=&#34;https://arxiv.org/abs/2305.04917&#34;&gt;article&lt;/a&gt; with &lt;a href=&#34;https://flavienleger.github.io/&#34;&gt;Flavien Léger&lt;/a&gt;, on alternating minimization and gradient descent with a general cost, &lt;a href=&#34;publication/PCAF_GradDesc-GenCost_slides/PCAF_GradDesc-GenCost_slides.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;New &lt;a href=&#34;https://arxiv.org/abs/2208.07030&#34;&gt;article&lt;/a&gt; in Pure and Applied Functional Analysis, with &lt;a href=&#34;https://personal.utdallas.edu/~axb046100/&#34;&gt;Alain Bensoussan&lt;/a&gt;, on the RKHSs of Kalman filtering,&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;New &lt;a href=&#34;https://arxiv.org/abs/2206.08873&#34;&gt;article&lt;/a&gt; at NeurIPS22, with &lt;a href=&#34;https://akorba.github.io/&#34;&gt;Anna Korba&lt;/a&gt; and &lt;a href=&#34;https://flavienleger.github.io/&#34;&gt;Flavien Léger&lt;/a&gt;, on Mirror Descent with Relative Smoothness in Measure Spaces, with application to Sinkhorn and EM, &lt;a href=&#34;publication/PCAF_NeurIPS2022/PCAF_NeurIPS2022slides_long.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;New &lt;a href=&#34;https://arxiv.org/abs/2202.11410&#34;&gt;article&lt;/a&gt; in Integral Equations and Operator Theory, with &lt;a href=&#34;http://www.cmap.polytechnique.fr/~gaubert/&#34;&gt;Stéphane Gaubert&lt;/a&gt;, on the tropical analogues of reproducing kernels with applications to value functions, &lt;a href=&#34;publication/PCAF_TropKerOptim2023/PCAF_TropKerOptim2023.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;biography&#34;&gt;&lt;strong&gt;Biography&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Moving to the dark side of the optimization world! I am joining as postdoc the &lt;a href=&#34;https://www.tuwien.at/mg/vador/&#34;&gt;VADOR team&lt;/a&gt; at &lt;a href=&#34;https://www.tuwien.at/en/tu-wien&#34;&gt;TU Wien&lt;/a&gt; with &lt;a href=&#34;https://www.arisdaniilidis.at/&#34;&gt;Aris Daniilidis&lt;/a&gt; for 23/24, starting in September.&lt;/p&gt;
+&lt;p&gt;Moving to the dark side of the optimization world! I joined as postdoc the &lt;a href=&#34;https://www.tuwien.at/mg/vador/&#34;&gt;VADOR team&lt;/a&gt; at &lt;a href=&#34;https://www.tuwien.at/en/tu-wien&#34;&gt;TU Wien&lt;/a&gt; with &lt;a href=&#34;https://www.arisdaniilidis.at/&#34;&gt;Aris Daniilidis&lt;/a&gt; for 23/24.&lt;/p&gt;
 &lt;p&gt;From September 2021 to August 2023, I was a post-doctoral researcher at &lt;a href=&#34;https://www.di.ens.fr/sierra/&#34;&gt;INRIA SIERRA&lt;/a&gt;, working with &lt;a href=&#34;https://www.di.ens.fr/~rudi/&#34;&gt;Alessandro Rudi&lt;/a&gt;. I obtained my PhD in July 2021 from &lt;a href=&#34;https://psl.eu/&#34;&gt;PSL&lt;/a&gt; &lt;a href=&#34;https://www.minesparis.psl.eu/&#34;&gt;MINES ParisTech&lt;/a&gt; (Paris), at the &lt;a href=&#34;http://cas.ensmp.fr/&#34;&gt;CAS laboratory&lt;/a&gt;, working on shape/state constraints in optimal control and nonparametric regression through kernel methods (&lt;a href=&#34;files/AUBIN_PhD_manuscript_EDVersion.pdf&#34;&gt;manuscript&lt;/a&gt;, &lt;a href=&#34;files/AUBIN_PhD_slides_040721.pdf&#34;&gt;slides&lt;/a&gt;). I graduated from École polytechnique (X2013) in 2017, then obtained my Master degree (MVA, Mathematics-Vision-Learning) with Highest Honours after an internship with &lt;a href=&#34;http://members.cbio.mines-paristech.fr/~jvert/&#34;&gt;Jean-Philippe Vert&lt;/a&gt; (CBIO-Google) on gene network inference (based on single-cell RNA sequencing).&lt;/p&gt;
 &lt;p&gt;I am interested in the links between kernel methods, optimal control, Kalman filtering and optimization in measure spaces. So far I have shown that kernels appear in linear-quadratic optimal control because of Hilbertian vector spaces of trajectories, while, for estimation problems, they appear through covariances of Gaussian processes. It is this &lt;em&gt;dual&lt;/em&gt;, deterministic and stochastic, nature of kernels which underlies the &lt;em&gt;duality&lt;/em&gt; between optimal control and estimation in the Linear-Quadratic case.&lt;/p&gt;
 &lt;p&gt;My research and my &lt;a href=&#34;https://fr.wiktionary.org/wiki/lyricomanie&#34;&gt;lyricomania&lt;/a&gt;, a passion I share within the association &lt;a href=&#34;https://juvenilia.eu/&#34;&gt;Juvenilia&lt;/a&gt;, do not leave me so much time to spare, but I occasionnaly &lt;a href=&#34;https://www.arplastix.com/pierre-cyril-aubin/&#34;&gt;paint&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-Contact: pierre-cyril[dot]aubin(at)inria[dot]fr</description>
+Contact: pierre-cyril[dot]aubin(at)inria[dot]fr
+[comment]: &lt;pierre-cyril[dot]aubin(at)tuwien[dot]ac[dot]at&gt;</description>
     </item>
     
   </channel>
