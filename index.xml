@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pierre-Cyril Aubin-Frankowski</title>
-    <link>https://pcaubin.github.io/</link>
-      <atom:link href="https://pcaubin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Pierre-Cyril Aubin-Frankowski</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://pcaubin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Pierre-Cyril Aubin-Frankowski</title>
-      <link>https://pcaubin.github.io/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://pcaubin.github.io/authors/admin/_index---copie/</link>
+      <link>http://localhost:1313/authors/admin/_index---copie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pcaubin.github.io/authors/admin/_index---copie/</guid>
+      <guid>http://localhost:1313/authors/admin/_index---copie/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;
