@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pierre-Cyril Aubin-Frankowski</title>
-    <link>http://localhost:1313/authors/admin/</link>
-      <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pcaubin.github.io/authors/admin/</link>
+      <atom:link href="https://pcaubin.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Pierre-Cyril Aubin-Frankowski</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/images/icon_hu_e747e089a9e68c83.png</url>
+      <url>https://pcaubin.github.io/images/icon_hu_e747e089a9e68c83.png</url>
       <title>Pierre-Cyril Aubin-Frankowski</title>
-      <link>http://localhost:1313/authors/admin/</link>
+      <link>https://pcaubin.github.io/authors/admin/</link>
     </image>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/authors/admin/_index---copie/</link>
+      <link>https://pcaubin.github.io/authors/admin/_index---copie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/admin/_index---copie/</guid>
+      <guid>https://pcaubin.github.io/authors/admin/_index---copie/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -42,9 +42,9 @@ Contact: pierre-cyril[dot]aubin(at)inria[dot]fr</description>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/authors/admin/</link>
+      <link>https://pcaubin.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/admin/</guid>
+      <guid>https://pcaubin.github.io/authors/admin/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;h2 id=&#34;news&#34;&gt;&lt;strong&gt;News&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Starting Dec 2024, I am a permanent researcher/associate professor at CERMICS, ENPC, near Paris.&lt;/em&gt;&lt;/p&gt;
